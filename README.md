@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
 <p><em>Full Stack Web Developer :)
 
-[![Linkedin: mayciemorris](https://img.shields.io/badge/-mayciemorris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayciemorris/)
+![Linkedin: mayciemorris](https://img.shields.io/badge/-mayciemorris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayciemorris/)
 
 
 ### <img src="https://media.giphy.com/media/AzA3AoYdrm7KRUlutU/giphy.gif" width="50"> A little more about me...  
@@ -12,7 +12,7 @@ export const Maycie = () => {
   pronouns: "she" | "her",
   code: [HTML, CSS, JavaScript, Node.js, Python],
   tools: [React, Redux, ContextAPI, Cypress, Jest, Styled-Components, Material-UI],
-  hobbies: [Hanging with my son, coding, hiking, watching movies, reading]
+  hobbies: ["Hanging with my son", "coding", "hiking", "watching movies", "reading"]
 }
 ```
 
