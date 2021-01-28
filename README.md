@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thai Braga! <img src="http://gph.is/1sCUrKC" width="50"></h2>
+<h2> Hi, I'm Maycie Morris :) <img src="http://gph.is/1sCUrKC" width="50"></h2>
 <img align='right' src="https://gph.is/st/MwQPypm" width="230">
 <p><em>Full Stack Web Developer :)
   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
