@@ -1,4 +1,4 @@
-<h2> Hi, I'm Maycie Morris :) <img src="http://gph.is/1sCUrKC" width="50"></h2>
+<h2> Hi, I'm Maycie Morris :) <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
 <p><em>Full Stack Web Developer :)
 
