@@ -1,12 +1,12 @@
 <p align="center">
 <h2> Hi, I'm Maycie Morris :) <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/AzA3AoYdrm7KRUlutU/giphy.gif" width="230">
 <p><em>Full Stack Web Developer :)
 
 ![Linkedin: mayciemorris](https://img.shields.io/badge/-mayciemorris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayciemorris/)
 
 
-### <img src="https://media.giphy.com/media/AzA3AoYdrm7KRUlutU/giphy.gif" width="60"> A little more about me...  
+### <img src="https://media.giphy.com/media/cXRew6iGi0cLZSl76j/giphy.gif" width="60"> About me!
 
 ```javascript
 export const Maycie = () => ({
