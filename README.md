@@ -22,7 +22,7 @@ export const Maycie = () => ({
       "HTML",
       "CSS",
       "JavaScript",
-      "React": [redux, contextAPI, styled-components, material-ui, bootstrap],
+      "React": ["redux", "contextAPI", "styled-components", "material-ui", "bootstrap"],
       "Cypress",
       "Jest",
     },
