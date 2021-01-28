@@ -1,3 +1,4 @@
+<center>
 <h2> Hi, I'm Maycie Morris :) <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
 <p><em>Full Stack Web Developer :)
@@ -33,3 +34,4 @@ export const Maycie = () => ({
 ```
 
 <b>I look forward to meeting you!</b>
+</center>
