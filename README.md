@@ -11,11 +11,11 @@
 ```javascript
 export const Maycie = () => ({
   pronouns: "she" | "her",
-  linkedInUrl: "https://www.linkedin.com/in/mayciemorris/",
+  LinkedInUrl: "https://www.linkedin.com/in/mayciemorris/",
   portfolioUrl: "https://maycie-morris.vercel.app/",
   askMeAbout: [
     "mother", "full stack webdev", "music",
-    "movies", "reading"
+    "movies", "reading", "cats"
   ],
   technologies: {
     frontEnd: {
