@@ -19,16 +19,16 @@ export const Maycie = () => ({
   ],
   technologies: {
     frontEnd: {
-      HTML,
-      CSS,
-      JavaScript,
-      React: [redux, contextAPI, styled-components, material-ui, bootstrap],
-      Cypress,
-      Jest,
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React": [redux, contextAPI, styled-components, material-ui, bootstrap],
+      "Cypress",
+      "Jest",
     },
     backEnd: {
-      Node.js,
-      Python
+      "Node.js",
+      "Python"
   }
 });
 ```
