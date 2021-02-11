@@ -14,8 +14,8 @@ export const Maycie = () => ({
   LinkedInUrl: "https://www.linkedin.com/in/mayciemorris/",
   portfolioUrl: "https://maycie-morris.vercel.app/",
   askMeAbout: [
-    "mother", "full stack webdev", "music",
-    "movies", "reading", "cats"
+    "full stack webdev", "music",
+    "movies", "reading", "cats", "family",
   ],
   technologies: {
     frontEnd: {
@@ -28,7 +28,7 @@ export const Maycie = () => ({
     },
     backEnd: {
       "Node.js",
-      "Python"
+      "Python",
   }
 });
 ```
